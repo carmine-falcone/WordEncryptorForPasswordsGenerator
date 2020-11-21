@@ -4,8 +4,8 @@ Want to make your password more secure?
 You've come to the right place! Use this script and encrypt your password to make it bigger and more secure!
 # Example:
 user@linux ~/ python3 word.py
-1)      Encrypt
-2)      Decrypt
+      Encrypt
+      Decrypt
 >>> 1
 Do you want to remove the spaces? (If you remove it, it will not be possible to do the reverse process!)[Y/N]:
 >>>n
