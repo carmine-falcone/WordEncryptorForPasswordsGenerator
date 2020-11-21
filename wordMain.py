@@ -38,20 +38,18 @@ Decrypted word: !#thisisverysafe
 
 
 '''
-#Modulos
+#Modules
 from __future__ import print_function
 from time import sleep
 from unidecode import unidecode
 from getpass import getpass
 
 import sys
-#import json
-#Modulos do Core
+#Modules from Core
 from Core.Crypt import *
 
-#Modulos do Database
-#from DB.conf import *
-#Variaveis
+
+#Vars
 panel = '''
 1)      Encrypt
 2)      Decrypt 
@@ -95,7 +93,7 @@ def main():
                             print("\nBye bye :]")
                             sys.exit()
                         else:
-                            print("Opção errada!")
+                            print("Wrong alternative!")
     
                     else:
                         break
@@ -123,5 +121,4 @@ def main():
             sys.exit()
 
 if __name__ == '__main__':
-    #confmodePassword = json.load(open('DB/modePassword.json'))
     main()
