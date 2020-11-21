@@ -16,8 +16,8 @@ Retry WORD: $!#Thisisverysafe
 Size CYPHERTEXT: 41
 Clean Text Size: 17
 encrypted word: 41 40 20 8 9 19 9 19 22 5 18 25 19 1 6 5
-1)      Encrypt
-2)      Decrypt
+1)  Encrypt
+2)  Decrypt
 >>> 2
 Do you want to remove the spaces? (If you remove it, it will not be possible to do the reverse process!)[Y/N]:
 >>> n
