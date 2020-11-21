@@ -54,10 +54,6 @@ panel = '''
 1)      Encrypt
 2)      Decrypt 
 '''
-try:
-    raw_input
-except:
-    raw_input = str(input)
 def GetWord():
     while 1:
         what = str(input("GETPASS[Y/N]?: "))
