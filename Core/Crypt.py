@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-Encrypter e decrypter!
+Encrypter e decrypter! - by don-batista!
+Crypt!
 '''
 
 def Encrypt(word):
