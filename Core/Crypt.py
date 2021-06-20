@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 '''
-Encrypter e decrypter! - by don-batista!
+Encrypter e decrypter! - by carmine-falcone!
 Crypt!
 '''
 
